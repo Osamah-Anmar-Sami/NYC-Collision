@@ -25,7 +25,7 @@
 
 ### 🚗 **Most Affected Vehicle Type:** **Passenger vehicles**  
 
-## 📊 Features:
+## 📊 Features
 ✅ **Interactive Power BI report**  
 ✅ **Time-series analysis of monthly & hourly trends**  
 ✅ **High-risk location identification**  
